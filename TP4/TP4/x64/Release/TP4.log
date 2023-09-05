@@ -1,0 +1,18 @@
+﻿  KabinaWindy.cpp
+  PasazerWindy.cpp
+C:\Users\Janek\source\repos\TP4\TP4\PasazerWindy.cpp(28,69): warning C4244: "argument": konwersja z "int" do "Gdiplus::REAL", możliwa utrata danych
+C:\Users\Janek\source\repos\TP4\TP4\PasazerWindy.cpp(28,49): warning C4244: "argument": konwersja z "int" do "Gdiplus::REAL", możliwa utrata danych
+C:\Users\Janek\source\repos\TP4\TP4\PasazerWindy.cpp(28,44): warning C4244: "argument": konwersja z "int" do "Gdiplus::REAL", możliwa utrata danych
+C:\Users\Janek\source\repos\TP4\TP4\PasazerWindy.cpp(28,21): warning C4244: "argument": konwersja z "int" do "Gdiplus::REAL", możliwa utrata danych
+  PietroWinda.cpp
+  Symulator.cpp
+  SzybWindy.cpp
+  TP4.cpp
+C:\Users\Janek\source\repos\TP4\TP4\TP4.cpp(97,7): warning C4101: "myPen": lokalna zmienna, do której nie istnieje odwołanie
+  ZbiorPasazerowWindy.cpp
+  ZbiorPieterWindy.cpp
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 258 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  TP4.vcxproj -> C:\Users\Janek\source\repos\TP4\x64\Release\TP4.exe
