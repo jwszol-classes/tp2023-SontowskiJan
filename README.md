@@ -1,1 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/LeiQP3NV)
+Projekt jest symulacją działania windy, spełniającą wszystkie wymagania zawarte w zadaniu.
+Używając przycisków, jesteśmy w stanie stworzyć pasażerów i wybrać ich piętro docelowe. Winda samodzielnie dostarcza ich na wybrane piętro.
+Pasażerowie nie wejdą do windy jeżeli przekroczony będzie limit wagi. Po pięciu sekundach bez pasażerów w symulacji winda pojedzie na parter.
+Wyświetlana jest waga pasażerów, którzy aktualnie znajdują się w kabinie.
+Program przygotowany przez studentów ACiR Jana Sontowskiego 193700 i Jakuba Żurawskiego 193353.
